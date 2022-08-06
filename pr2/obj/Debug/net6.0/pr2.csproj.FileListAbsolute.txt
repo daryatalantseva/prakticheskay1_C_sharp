@@ -1,0 +1,15 @@
+D:\Education\block3\Examples001\pr2\obj\Debug\net6.0\pr2.csproj.AssemblyReference.cache
+D:\Education\block3\Examples001\pr2\obj\Debug\net6.0\pr2.GeneratedMSBuildEditorConfig.editorconfig
+D:\Education\block3\Examples001\pr2\obj\Debug\net6.0\pr2.AssemblyInfoInputs.cache
+D:\Education\block3\Examples001\pr2\obj\Debug\net6.0\pr2.AssemblyInfo.cs
+D:\Education\block3\Examples001\pr2\obj\Debug\net6.0\pr2.csproj.CoreCompileInputs.cache
+D:\Education\block3\Examples001\pr2\bin\Debug\net6.0\pr2.exe
+D:\Education\block3\Examples001\pr2\bin\Debug\net6.0\pr2.deps.json
+D:\Education\block3\Examples001\pr2\bin\Debug\net6.0\pr2.runtimeconfig.json
+D:\Education\block3\Examples001\pr2\bin\Debug\net6.0\pr2.dll
+D:\Education\block3\Examples001\pr2\bin\Debug\net6.0\pr2.pdb
+D:\Education\block3\Examples001\pr2\obj\Debug\net6.0\pr2.dll
+D:\Education\block3\Examples001\pr2\obj\Debug\net6.0\refint\pr2.dll
+D:\Education\block3\Examples001\pr2\obj\Debug\net6.0\pr2.pdb
+D:\Education\block3\Examples001\pr2\obj\Debug\net6.0\pr2.genruntimeconfig.cache
+D:\Education\block3\Examples001\pr2\obj\Debug\net6.0\ref\pr2.dll

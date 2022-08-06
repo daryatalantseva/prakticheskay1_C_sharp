@@ -1,0 +1,15 @@
+D:\Education\block3\Examples001\pr3\bin\Debug\net6.0\pr3.exe
+D:\Education\block3\Examples001\pr3\bin\Debug\net6.0\pr3.deps.json
+D:\Education\block3\Examples001\pr3\bin\Debug\net6.0\pr3.runtimeconfig.json
+D:\Education\block3\Examples001\pr3\bin\Debug\net6.0\pr3.dll
+D:\Education\block3\Examples001\pr3\bin\Debug\net6.0\pr3.pdb
+D:\Education\block3\Examples001\pr3\obj\Debug\net6.0\pr3.csproj.AssemblyReference.cache
+D:\Education\block3\Examples001\pr3\obj\Debug\net6.0\pr3.GeneratedMSBuildEditorConfig.editorconfig
+D:\Education\block3\Examples001\pr3\obj\Debug\net6.0\pr3.AssemblyInfoInputs.cache
+D:\Education\block3\Examples001\pr3\obj\Debug\net6.0\pr3.AssemblyInfo.cs
+D:\Education\block3\Examples001\pr3\obj\Debug\net6.0\pr3.csproj.CoreCompileInputs.cache
+D:\Education\block3\Examples001\pr3\obj\Debug\net6.0\pr3.dll
+D:\Education\block3\Examples001\pr3\obj\Debug\net6.0\refint\pr3.dll
+D:\Education\block3\Examples001\pr3\obj\Debug\net6.0\pr3.pdb
+D:\Education\block3\Examples001\pr3\obj\Debug\net6.0\pr3.genruntimeconfig.cache
+D:\Education\block3\Examples001\pr3\obj\Debug\net6.0\ref\pr3.dll
