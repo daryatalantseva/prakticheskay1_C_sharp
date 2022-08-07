@@ -6,7 +6,7 @@ while (i < N+1)
 {
     if (i % 2 ==0 )
     {
-        Console.WriteLine(i);
+        Console.Write(" "+i);
     }
     i+=1;    
 }
