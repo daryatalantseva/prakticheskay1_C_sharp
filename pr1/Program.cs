@@ -9,6 +9,6 @@ if (number1 > number2)
     }
 else
     {
-        Console.Write("Второе число больше, первое");
+        Console.Write("Второе число больше, первое меньше");
     }
         
